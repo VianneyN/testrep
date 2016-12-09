@@ -1,4 +1,4 @@
-Chaque année, deux millions de personnes viennent visiter le traditionnel marché de Noël de Strasbourg. Ce marché existe depuis 1570. Il fait partie des plus anciens et des plus grands marchés de Noël d¿Europe. Il débute le premier samedi de l¿Avent et s¿achève, selon les années, le 24 ou le 31 décembre.
+Voici un test de Merge pour voir si on peut syncroniser deux fichier en un sur hub  Noël de Strasbourg. Ce marché existe depuis 1570. Il fait partie des plus anciens et des plus grands marchés de Noël d¿Europe. Il débute le premier samedi de l¿Avent et s¿achève, selon les années, le 24 ou le 31 décembre.
 
 Le marché de Noël de Strasbourg a lieu chaque année sur la place de la Cathédrale et est très apprécié pour son animation et ses illuminations.  C¿est d¿ailleurs en fin d¿après-midi, lorsque la ville s¿illumine  que le marché est le plus agréable. Les visiteurs se promènent dans les allées bercés par les chants de Noël et les odeurs d¿épices, de cannelle¿ On y trouve de petites échoppes dans lesquelles on vend des décorations de Noël : des guirlandes, des boules de Noël en verre, des étoiles¿
 
